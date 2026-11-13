@@ -32,11 +32,7 @@ A lead score can help rank prospects for follow-up. The operating threshold shou
 - `Lead Scoring Case Study Summary Report.pdf` — summary report.
 - `Lead Score Case Studyppt.pdf_compressed.pdf` — project presentation.
 - `Assignment Subjective Questions EDM.pdf` — assignment questions.
-- `docs/PROJECT_GUIDE_AND_INTERVIEW_QUESTIONS.md` — explanation and interview preparation.
 
-## Interview preparation
-
-See [Project explanation and interview questions](docs/PROJECT_GUIDE_AND_INTERVIEW_QUESTIONS.md).
 
 ## Author
 
